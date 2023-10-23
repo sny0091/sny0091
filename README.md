@@ -6,7 +6,6 @@ Over 1.5 years of software development in Python and IDEs - sublime text, PyChar
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/sny0091](https://github.com/sny0091)
-- 📄 Know about my experiences [https://www.linkedin.com/in/sunny-malik0091/](https://www.linkedin.com/in/sunny-malik0091/)
 
 <h2 align="left">Languages and Tools in my stack:</h2>
 <p align="left"> 
