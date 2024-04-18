@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sunny Malik.</h1>
 <h3 align="center">An aspiring Python developer from India.</h3>
 
-Over 1.5 years of software development in Python and IDEs - sublime text, PyCharm. Experience in Python, Flask, Git. Technical experience in supporting applications that use an object-oriented programming language. Experience in using Pandas python libraries during development lifecycle. Excellent experience with Python development under Linux OS (Ubuntu). Experienced in writing SQL Queries, Stored procedures, functions, packages, tables, views, and triggers.
+Over 4 years of software development in Python and IDEs - sublime text, PyCharm. Experience in Python, Flask, Git. Technical experience in supporting applications that use an object-oriented programming language. Experience in using Pandas python libraries during development lifecycle. Excellent experience with Python development under Linux OS (Ubuntu). Experienced in writing SQL Queries, Stored procedures, functions, packages, tables, views, and triggers.
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/sny0091](https://github.com/sny0091)
